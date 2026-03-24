@@ -1,0 +1,3 @@
+[submodule "src/content/docs-remote"]
+	path = src/content/docs-remote
+	url = https://github.com/Iprobablydontknowwhatimdoing/4180-software-docs.git
