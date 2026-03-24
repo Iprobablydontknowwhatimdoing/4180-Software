@@ -15,9 +15,9 @@ This is the central hub for all documentation, guides, and reference materials f
 
 New to 4180 Software? Start here:
 
-- **[Introduction](../guides/introduction)** - Learn the basics and core concepts
-- **[Installation Guide](../guides/installation)** - Set up your environment
-- **[Quick Start](../guides/quickstart)** - Build your first component
+- **[Introduction](./guides/introduction)** - Learn the basics and core concepts
+- **[Installation Guide](./guides/installation)** - Set up your environment
+- **[Quick Start](./guides/quickstart)** - Build your first component
 
 ## Key Features
 
