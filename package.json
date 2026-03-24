@@ -12,6 +12,8 @@
   "dependencies": {
     "@astrojs/starlight": "^0.38.2",
     "astro": "^6.0.1",
-    "sharp": "^0.34.2"
+    "astro-github-file-loader": "^1.1.0",
+    "sharp": "^0.34.2",
+    "starlight-giscus": "^0.9.1"
   }
 }
