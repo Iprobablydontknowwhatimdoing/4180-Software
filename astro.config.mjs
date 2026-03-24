@@ -2,11 +2,12 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightGiscus from 'starlight-giscus';
+import starlightThemeFlexoki from 'starlight-theme-flexoki'
 
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: '4180 Software',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			plugins: [
 				starlightGiscus({
@@ -17,7 +18,8 @@ export default defineConfig({
 					mapping: 'title',
 					reactions: true,
 					inputPosition: 'top',
-				})
+				}),
+				starlightThemeFlexoki(),
 			]
 		}),
 	],

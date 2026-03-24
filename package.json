@@ -14,6 +14,7 @@
     "astro": "^6.0.1",
     "astro-github-file-loader": "^1.1.0",
     "sharp": "^0.34.2",
-    "starlight-giscus": "^0.9.1"
+    "starlight-giscus": "^0.9.1",
+    "starlight-theme-flexoki": "^0.2.2"
   }
 }
